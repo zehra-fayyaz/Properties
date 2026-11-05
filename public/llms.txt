@@ -1,0 +1,13 @@
+# FixFlow Maintenance & WhatsApp Dispatch Portal
+
+> FixFlow is a web portal for property managers, tenants and technicians to raise, assign, track and resolve maintenance tickets, with automated WhatsApp notifications, technician dispatching, inventory management and resolution analytics.
+
+## What it does
+- Tenant portal: submit maintenance requests with photos and track status
+- Admin dashboard: ticket pipeline, technician assignment, resolution analytics
+- Technician view: assigned jobs, status updates, parts used
+- WhatsApp hub: automated status messages to tenants and technicians
+- Inventory manager: spare-parts stock and low-stock alerts
+
+## Notes
+- Demo data runs entirely in the browser; no personal data is sent to a server.
